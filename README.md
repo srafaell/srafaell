@@ -47,4 +47,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=srafaell&theme=react&hide_border=true&background=0D1117&ring=7C69EF&fire=A855F7&currStreakLabel=7C69EF"/>
+</p>
+
+<br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
